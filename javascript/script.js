@@ -27,5 +27,5 @@ function yt() {
 }
 
 function eeeee() {
-    window.open("downloads/EEEEE.exe");
+    window.open("https://dan-and224.github.io/mysiterework/downloads/EEEEE.exe");
 }
