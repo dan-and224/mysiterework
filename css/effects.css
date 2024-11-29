@@ -1,0 +1,39 @@
+.logo:hover {
+    transition: all 0.5s ease;
+    transform: scaleX(2);
+}
+
+.logo {
+        transition: all 0.5s ease;
+}
+
+.logo-image {
+    height: 100px;
+    width: 100px;
+    filter: grayscale(100%);
+    transition: all 0.5s ease;
+}
+
+.logo-image:hover {
+  filter: grayscale(0%);
+}
+
+.morfing-button {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ffc800;
+    border: none;
+    color: black;
+    transition: all 0.5s ease-in-out;
+}
+
+.morfing-button:hover {
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    background-color: #ffba0a;
+    border: none;
+    color: black;
+    transition: all 0.5s ease-in-out;
+}
