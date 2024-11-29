@@ -27,5 +27,5 @@ function yt() {
 }
 
 function eeeee() {
-    window.open("https://dan-and224.github.io/mysiterework/downloads/EEEEE.exe");
+    window.open("https://mega.nz/file/ESVxHYjQ#ZLYwQ5XqayXODCGkDqMuO1zWSjXs36nSHX-_uldHvOU");
 }
