@@ -1,0 +1,26 @@
+body {
+    background-image: url(images/1654291076_new_preview_%D1%84%D1%8B%D0%B2%D1%86%D1%84%D1%8B%D0%B2.jpg);
+    text-align: center
+}
+
+h1 {
+    color: white;
+}
+
+.site {
+    background-color: #00000086;
+}
+
+#symbol {
+    height: auto;
+    width: 50px;
+}
+
+p {
+    color: white;
+}
+
+iframe {
+ width: 700px;
+ height: 500px
+}
